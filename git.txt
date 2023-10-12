@@ -1,0 +1,12 @@
+git init => to initialize git in any folder
+
+git remote add origin "link" => for creating coneection of github repo 
+
+git add => for adding files 
+
+git commit -m "Your mesaage " => for commiting the changes
+
+git push origin master => for uploading changes to github
+
+git status => to check files added or not
+
