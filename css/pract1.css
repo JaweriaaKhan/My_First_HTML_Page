@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(181, 255, 255);
+    background-image: url(../images/Blue\ Star\ Sky\,\ Blue\ Star\,\ galaxy\ illustration\ transparent\ background\ PNG\ clipart.jpg);
+}
+#box{
+    background-color: rgb(219, 80, 80)  ;
+    /* color: aliceblue; */
+    /*this is a comment*/
+}
+.HEADING{
+  color: rgb(5, 99, 67);
+  text-align: center;
+  text-decoration: wavy underline;
+  font-weight: normal;
+}
+button{
+    background-color: green;
+}
+p{
+    text-align: end;
+}
+a{
+    text-decoration:  green wavy underline;
+}
+#one{
+    font-family: arial;
+    font-size: 16px;
+    line-height: 15px;
+    text-transform: lowercase;
+}
+#two{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    text-transform: capitalize;
+}
